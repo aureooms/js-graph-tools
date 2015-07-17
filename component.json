@@ -1,5 +1,5 @@
 {
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"name": "aureooms-js-graph-tools",
 	"main": "js/dist/graph-tools.js",
 	"license": "AGPL-3.0",

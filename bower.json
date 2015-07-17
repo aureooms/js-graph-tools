@@ -1,6 +1,6 @@
 {
 	"homepage": "http://aureooms.github.io/js-graph-tools/",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"name": "aureooms-js-graph-tools",
 	"main": "js/dist/graph-tools.js",
 	"ignore": [
