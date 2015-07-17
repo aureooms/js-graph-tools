@@ -1,0 +1,17 @@
+{
+	"code": {
+		"test": [
+			"test",
+			"js"
+		],
+		"main": [
+			"js",
+			"dist",
+			"graph-tools.js"
+		]
+	},
+	"out": "js/dist/",
+	"name": "graph-tools",
+	"src": "js/src/",
+	"debug": false
+}

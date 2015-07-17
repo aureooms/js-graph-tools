@@ -1,0 +1,42 @@
+{
+	"repository": {
+		"url": "https://github.com/aureooms/js-graph-tools.git",
+		"type": "git"
+	},
+	"version": "0.0.0",
+	"name": "aureooms-js-graph-tools",
+	"dependencies": {},
+	"main": "js/dist/graph-tools.js",
+	"spm": {
+		"main": "js/dist/graph-tools.js"
+	},
+	"license": "AGPL-3.0",
+	"author": "aureooms",
+	"scripts": {
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"doc": "./node_modules/.bin/groc"
+	},
+	"bugs": {
+		"url": "https://github.com/aureooms/js-graph-tools/issues"
+	},
+	"homepage": "http://aureooms.github.io/js-graph-tools/",
+	"devDependencies": {
+		"aureooms-node-package": "^4.2.5"
+	},
+	"description": "graph tools code bricks for JavaScript",
+	"keywords": [
+		"bricks",
+		"edge",
+		"edges",
+		"ender",
+		"fuse",
+		"graph",
+		"graphs",
+		"javascript",
+		"js",
+		"select",
+		"vertex",
+		"vertices"
+	]
+}
