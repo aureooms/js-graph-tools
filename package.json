@@ -22,7 +22,7 @@
 	},
 	"homepage": "http://aureooms.github.io/js-graph-tools/",
 	"devDependencies": {
-		"aureooms-node-package": "^6.0.1"
+		"aureooms-node-package": "^7.0.0"
 	},
 	"description": "graph tools code bricks for JavaScript",
 	"keywords": [
