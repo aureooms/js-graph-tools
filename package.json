@@ -4,7 +4,7 @@
 		"type": "git"
 	},
 	"version": "0.0.1",
-	"name": "aureooms-js-graph-tools",
+	"name": "@aureooms/js-graph-tools",
 	"dependencies": {},
 	"main": "js/dist/graph-tools.js",
 	"spm": {
