@@ -3,7 +3,7 @@
 
 graph tools code bricks for JavaScript
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-graph-tools.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-graph-tools/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-graph-tools.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-graph-tools/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-graph-tools.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-tools)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-graph-tools.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-graph-tools)
 [![Build Status](https://img.shields.io/travis/aureooms/js-graph-tools.svg?style=flat)](https://travis-ci.org/aureooms/js-graph-tools)
